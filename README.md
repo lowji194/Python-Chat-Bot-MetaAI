@@ -1,4 +1,3 @@
-Dưới đây là nội dung README.md đã được dịch sang tiếng Việt và thêm phần nguồn:
 
 ```markdown
 # Python Chat Bot MetaAI
