@@ -36,17 +36,7 @@ Một chatbot dựa trên Python tương tác với API của Meta AI để gử
 - **Quản lý Phiên Làm Việc**: Quản lý một phiên làm việc để tương tác với API của Meta AI.
 - **Vòng lặp Chính**: Liên tục gửi tin nhắn của người dùng và in phản hồi từ AI.
 
-## Đóng góp
-
-Đóng góp rất được hoan nghênh! Vui lòng mở một issue hoặc gửi pull request.
-
-## Giấy phép
-
-Dự án này được cấp phép theo Giấy phép MIT.
-
 ---
-
-Để biết thêm chi tiết, hãy truy cập [repository](https://github.com/lowji194/Python-Chat-Bot-MetaAI).
 
 ## Nguồn
 
